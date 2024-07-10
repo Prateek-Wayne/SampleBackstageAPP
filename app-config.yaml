@@ -6,7 +6,7 @@ app:
   #   port: 3000
 
 organization:
-  name: philipsHackathone
+  name: myOrg
 
 backend:
   # Used for enabling authentication, secret is shared by all backend plugins
